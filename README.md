@@ -1,5 +1,5 @@
-# Python codes
-Collection of scripts from a Data Science for Finances course taken on April 2022, that was provided by Odemir Pieri Jr. and DataVicking. All the scripts were written in Portuguese. Projects:
+# Data analysis course
+Collection of scripts from a Data Science focused in finances course taken on April 2022, that was provided by Odemir Pieri Jr. and DataVicking. All the scripts were written in Portuguese. Projects:
 
 1. Analysis of unicorn companies 
 2. Socio-echonomic analysis of ENEM test takers and its relation to their performance.
